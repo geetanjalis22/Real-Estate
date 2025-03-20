@@ -1,0 +1,2 @@
+Deployed Link Cloudfare Pages: yarn run build: dist folder 
+https://78c6ca2a.real-estate-efe.pages.dev/
